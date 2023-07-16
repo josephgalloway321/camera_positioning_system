@@ -1,16 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <title>Camera Positioning System</title>
-    <link rel="stylesheet" type="text/css" href="resources/styles.css">
-    <script src="scripts/script.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
   </head>
   <body>
-    <!-- Live Video Feed -->
 
+    <!-- Live Video Feed -->
+    <section id="video-container">
+      <video id="videoElement" autoplay="true" >
+    </section>
 
     <!-- Servo Controls -->
+    <section id="controls-container">
+      <button>Rotate Left</button>
+      <button>Rotate right</button>
+      <button>Rotate Up</button>
+      <button>Rotate Down</button>
+    </section>
 
+    <!-- Temp. Script -->
+    <script src="scripts/script.js"></script>
 
     
   </body>

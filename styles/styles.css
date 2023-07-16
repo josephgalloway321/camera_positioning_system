@@ -1,9 +1,19 @@
 * {
   margin: 0px;
   padding: 0px;
+  border: black thin solid;
 }
 
 html {
   font-size: 16px;
 }
 
+#video-container {
+  display: grid;
+  justify-content: center;
+}
+
+#videoElement {
+  max-width: 100%;
+  max-height: auto;
+}
