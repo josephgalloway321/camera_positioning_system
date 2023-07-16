@@ -1,4 +1,4 @@
-# camera_positioning_system :camera:
+# Camera Positioning System :camera:
 
 ## Overview
 The main goal of this project ... 
