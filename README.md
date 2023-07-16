@@ -4,7 +4,7 @@
 The main goal of this project ... 
 
 
-__
+___
 ## Table of Contents
 - [Hardware](#hardware)
 - [Circuit & Setup](#circuit--setup)
