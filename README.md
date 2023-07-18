@@ -22,7 +22,7 @@ The following material was used to complete the project:
 | Item | Price | Quantity |
 | ---- | ----  | ---- |
 | Arduino Uno | $ 0 | 1 |
-| [Promodeler Servo, DS130DLHV](https://www.promodeler.com/DS130DLHV) | $ 0 | 2 | 
+| [Promodeler Servo, DS130DLHV](https://www.promodeler.com/DS130DLHV) | $ 35 | 2 | 
 | Arduino Uno | $ 0 | 1 |
 | Arduino Uno | $ 0 | 1 |
 | Arduino Uno | $ 0 | 1 |
