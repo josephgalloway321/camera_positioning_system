@@ -22,6 +22,7 @@ The following material was used to complete the project:
 | Item | Price | Quantity |
 | ---- | ----  | ---- |
 | [Arduino Uno](https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/ref=sr_1_3?keywords=arduino+uno&qid=1689642553&sr=8-3) | $ 29 | 1 |
+| [Arduino Uno Cable](https://www.amazon.com/Arduino-Data-Sync-Cable-Microcontroller/dp/B08RCJXY1Z/ref=sr_1_1_sspa?crid=2WYUJO4I79DHZ&keywords=arduino+uno+cable&qid=1689642672&sprefix=arduino+uno+cabl%2Caps%2C135&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | $ 8 | 1 |
 | [Promodeler Servo, DS130DLHV](https://www.promodeler.com/DS130DLHV) | $ 35 | 2 | 
 | [Intel Realsense d435i](https://store.intelrealsense.com/buy-intel-realsense-depth-camera-d435i.html) | $ 334 | 1 |
 | [Servo Brackets](https://www.amazon.com/gp/product/B07PQ12TXS/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) | $ 13 | 1 |
@@ -30,7 +31,6 @@ The following material was used to complete the project:
 | [Breadboards](https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_4?crid=1RXYCQJNQH6CH&keywords=breadboard&qid=1689642300&sprefix=breadbor%2Caps%2C144&sr=8-4) | $ 10 | 1 |
 | [Right Angle USB-C Adapter](https://www.amazon.com/dp/B0B77CJD7T?psc=1&ref=ppx_yo2ov_dt_b_product_details) | $ 9 | 1 |
 | [Vise Clamps](https://www.amazon.com/dp/B08PYFQ89M?psc=1&ref=ppx_yo2ov_dt_b_product_details) | $ 31 | 1 |
-| - | $ 0 | 1 |
 
 *Note: The links provided are only suggestions. They are not the only options for purchasing these specific products. I do not have any affiliation with the companies selling these products. The prices shown now may not be up to date.* <br><br>
 
