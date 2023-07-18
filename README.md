@@ -19,9 +19,18 @@ ___
 ___
 ## Hardware
 The following material was used to complete the project:
-| Item | Price |
+| Item | Price | Quantity |
 | ---- | ----  |
-| Merp | $ 10 |
+| Arduino Uno | $ 0 | 1 |
+| [Promodeler Servo, DS130DLHV](https://www.promodeler.com/DS130DLHV) | $ 0 | 2 | 
+| Arduino Uno | $ 0 | 1 |
+| Arduino Uno | $ 0 | 1 |
+| Arduino Uno | $ 0 | 1 |
+| Arduino Uno | $ 0 | 1 |
+| Arduino Uno | $ 0 | 1 |
+| Arduino Uno | $ 0 | 1 |
+| Arduino Uno | $ 0 | 1 |
+| Arduino Uno | $ 0 | 1 |
 
 *Note: The links provided are only suggestions. They are not the only options for purchasing these specific products. I do not have any affiliation with the companies selling these products. The prices shown now may not be up to date.* <br><br>
 
