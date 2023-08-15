@@ -5,14 +5,23 @@ var ros = new ROSLIB.Ros({
 
 ros.on('connection', function() {
   console.log('Connected to websocket server.');
+  const connection_status = document.querySelector('#connection-status');
+  connection_status.innerHTML = 'Connected';
+  connection_status.style.color = 'green';
 });
 
 ros.on('error', function() {
   console.log('Error connecting to websocket server: ', error);
+  const connection_status = document.querySelector('#connection-status');
+  connection_status.innerHTML = 'Error';
+  connection_status.style.color = 'orange';
 });
 
 ros.on('close', function() {
   console.log('Connection to websocket server closed.');
+  const connection_status = document.querySelector('#connection-status');
+  connection_status.innerHTML = 'Disconnected';
+  connection_status.style.color = 'red';
 });
 
 // Create access to the DOM
