@@ -6,9 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Camera Positioning System</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
-    <!--script defer type="text/javascript" src="video_script.js"></script-->
-    <script defer type="text/javascript" src="roslib.min.js"></script>
-    <script defer type="text/javascript" src="script_ros.js"></script>
+    <script defer type="text/javascript" src="./scripts/roslib.min.js"></script>
+    <script defer type="text/javascript" src="./scripts/script_ros.js"></script>
+    <!--script defer type="text/javascript" src="./scripts/video_script.js"></script-->
   </head>
   <body>
     <!-- Live Video Feed -->
@@ -21,7 +21,7 @@
 
     <!-- Connection Status -->
     <section id="connection-status-container">
-      <h1>Status: </h1>
+      <h1 id="status-label">Status:</h1>
       <h1 id="connection-status"></h1>
     </section>
 

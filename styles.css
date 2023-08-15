@@ -31,6 +31,19 @@ html {
   max-height: auto;
 }
 
+/* Style container for connection status */
+#connection-status-container {
+  display: flex;
+}
+
+#status-label {
+  margin-left: 0.5rem;
+}
+
+#connection-status {
+  margin-left: 1rem;
+}
+
 /* Style container for control buttons */
 #controls-container {
   width: 50%;
