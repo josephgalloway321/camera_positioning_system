@@ -24,8 +24,6 @@ ros.on('close', function() {
   connection_status.style.color = 'red';
 });
 
-// Create access to the DOM
-//const left_button = document.querySelector("#left-button");
 
 // Write functions to publish commands to motors
 function rotateRight() {
