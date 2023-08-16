@@ -21,10 +21,10 @@ Servo servo1;
 Servo servo2;
 
 // Set the minimum and maximum angle limits for each servo (deg)
-const int16_t servo1_min_limit = 0;
-const int16_t servo1_max_limit = 180;
+const int16_t servo1_min_limit = 25;
+const int16_t servo1_max_limit = 170;
 const int16_t servo2_min_limit = 75;
-const int16_t servo2_max_limit = 180;
+const int16_t servo2_max_limit = 170;
 
 // Set how much each servo will rotate when commanded to do so (deg)
 const int16_t rotate = 20;

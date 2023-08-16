@@ -114,10 +114,10 @@ function rotateDown() {
   });
   topic.publish(message);
 
-  // Enable disabled rotate down button
+  // Enable disabled rotate up button
   if(up_button.disabled === true) {
     up_button.disabled = false;
-    up_button.innerHTML = 'Rotate Down';
+    up_button.innerHTML = 'Rotate Up';
     up_button.style.color = 'black';
   }
 }
@@ -134,10 +134,10 @@ function rotateUp() {
   });
   topic.publish(message);
 
-  // Enable disabled rotate up button
+  // Enable disabled rotate down button
   if(down_button.disabled === true) {
     down_button.disabled = false;
-    down_button.innerHTML = 'Rotate Up';
+    down_button.innerHTML = 'Rotate Down';
     down_button.style.color = 'black';
   }
 }
@@ -157,14 +157,14 @@ function homeVertical() {
   // Enable disabled rotate down button
   if(up_button.disabled === true) {
     up_button.disabled = false;
-    up_button.innerHTML = 'Rotate Down';
+    up_button.innerHTML = 'Rotate Up';
     up_button.style.color = 'black';
   }
 
   // Enable disabled rotate up button
   if(down_button.disabled === true) {
     down_button.disabled = false;
-    down_button.innerHTML = 'Rotate Up';
+    down_button.innerHTML = 'Rotate Down';
     down_button.style.color = 'black';
   }
 }

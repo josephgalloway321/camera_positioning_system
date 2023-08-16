@@ -27,6 +27,7 @@ html {
 #videoElement {
   margin: 1rem auto;
   border: solid black 0.2rem;
+  width: 50%;
 }
 
 /* Style container for connection status */
