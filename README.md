@@ -55,7 +55,7 @@ There are ...
 
 ___
 ## Final Thoughts
-I learned so much completing this project ...
+I learned so much completing this project. I learned a lot about clients and servers, HTML/CSS/JavaScript, ROS tools for web pages, and programming servo motors with Arduino. I intend on using this project in combination with my future robotics projects. 
 
 Please let me know if this project helped in any way! I'd really appreciate any feedback or how someone improved upon this design. I would also really appreciate credit if this project helped.  
 
