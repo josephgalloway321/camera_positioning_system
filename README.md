@@ -1,7 +1,7 @@
 # Camera Positioning System :camera:
 
 ## Overview
-The main goal of this project ... 
+The goal of this project is to create a stationary camera system that's controlled through a web-interface. The user can view live video feed while pivoting each servo to move the camera view. 
 
 
 ___
@@ -39,12 +39,14 @@ The following material was used to complete the project:
 
 ___
 ## Circuit & Setup
-Notes: 
-
+*Note:*
+<br><br>
 
 ___
 ## Demonstration
 There are ...
+*Note:*
+<br><br>
 
 
 ___
@@ -61,4 +63,8 @@ The credit for all of the information in this project goes to the people who mad
 
 ___
 ## Resources
+- [Intel RealSense ROS Package](https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy)
+- [ROS Web Video Server](https://msadowski.github.io/ros-web-tutorial-pt3-web_video_server/)
+- [Control your ROS robot from your phone!](https://www.youtube.com/watch?v=hkkG-Sgi9Sk&t=676s)
+- [How to use Cameras in ROS (Sim Camera and Pi Camera)](https://www.youtube.com/watch?v=A3nw2M47K50&t=435s)
 - 
