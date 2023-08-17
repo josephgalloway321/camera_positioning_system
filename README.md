@@ -42,6 +42,8 @@ The following material was used to complete the project:
 
 ___
 ## Circuit & Setup
+![Circuit](./images/circuit.png)
+<br>
 *Note:*
 <br><br>
 
