@@ -1,7 +1,9 @@
 # Camera Positioning System :camera:
 
 ## Overview
-The goal of this project is to create a stationary camera system that's controlled through a web-interface. The user can view live video feed while pivoting each servo to move the camera view. 
+The goal of this project was to create a camera positioning system that was controlled by a web-interface. This setup allowed a user to view live video feed while pivoting camera view to see the system's surroundings. I developed this system with the goal of using it as a subsystem for my future robots. 
+<br><br>
+The purpose of this repository is to show demonstrations and provide some project details. It is not meant to be a step-by-step instructional on how to recreate the project. I plan on making that at a later time.
 
 
 ___
