@@ -68,7 +68,14 @@ The credit for all of the information in this project goes to the people who mad
 ___
 ## Resources
 - [Intel RealSense ROS Package](https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy)
-- [ROS Web Video Server](https://msadowski.github.io/ros-web-tutorial-pt3-web_video_server/)
+- [ROS Web Video Server Tutorial](https://msadowski.github.io/ros-web-tutorial-pt3-web_video_server/)
+- [ROS Web Video Server Wiki](http://wiki.ros.org/web_video_server)
+- [ROS Web Video Server GitHub](https://github.com/RobotWebTools/web_video_server/tree/master)
 - [Control your ROS robot from your phone!](https://www.youtube.com/watch?v=hkkG-Sgi9Sk&t=676s)
 - [How to use Cameras in ROS (Sim Camera and Pi Camera)](https://www.youtube.com/watch?v=A3nw2M47K50&t=435s)
-- 
+- [Web Interfaces For ROS Robots](https://www.youtube.com/playlist?list=PLK0b4e05LnzagmZCkKIQo9KKqtGo_3aKj)
+- [RealSense Issue](https://github.com/IntelRealSense/realsense-ros/issues/1408)
+- [RealSense Issue Solution](https://github.com/IntelRealSense/librealsense/blob/master/config/99-realsense-libusb.rules)
+- [Codecademy's Full-Stack Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
+- [ROS and Arduino with ROSserial | ROS tutorial #10
+](https://www.youtube.com/watch?v=WLVfZXxpHYI)
