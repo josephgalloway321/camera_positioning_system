@@ -31,7 +31,7 @@ The following material was used to complete the project:
 | [Right Angle USB-C Adapter](https://www.amazon.com/dp/B0B77CJD7T?psc=1&ref=ppx_yo2ov_dt_b_product_details) | $ 9 | 1 |
 | [Vise Clamps](https://www.amazon.com/dp/B08PYFQ89M?psc=1&ref=ppx_yo2ov_dt_b_product_details) | $ 31 | 1 |
 
-*Note: The links provided are only suggestions. They are not the only options for purchasing these specific products. I do not have any affiliation with the companies selling these products. The prices shown now may not be up to date.*
+*Note: The links provided are only suggestions. They are not the only options for purchasing these specific products. I do not have any affiliation with the companies selling these products. The prices shown now may not be up to date.*<br>
 *Note: The vise clamps were only used to temporarily mount the servos. It's not necessary for operation if the user can mount them a different way.*
 <br><br>
 
