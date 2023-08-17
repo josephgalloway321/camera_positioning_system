@@ -8,7 +8,6 @@ ___
 ## Table of Contents
 - [Hardware](#hardware)
 - [Circuit & Setup](#circuit--setup)
-- [Install & Uninstall](#install--uninstall)
 - [Demonstration](#demonstration)
 - [Final Thoughts](#final-thoughts)
 - [Acknowledgments](#acknowledgments)
@@ -38,11 +37,6 @@ The following material was used to complete the project:
 ___
 ## Circuit & Setup
 Notes: 
-
-
-___
-## Install & Uninstall
-*Note: The first step assumes ...
 
 
 ___
