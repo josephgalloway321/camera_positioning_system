@@ -7,7 +7,7 @@ ros.on('connection', function() {
   console.log('Connected to websocket server.');
   const connection_status = document.querySelector('#connection-status');
   connection_status.innerHTML = 'Connected';
-  connection_status.style.color = 'green';
+  connection_status.style.color = '#a2c11c';
 });
 
 ros.on('error', function() {
@@ -25,7 +25,7 @@ ros.on('close', function() {
 });
 
 
-// Grab elements from web page
+// Grab button elements from web page to manipulate
 const right_button = document.querySelector('#right-button');
 const left_button = document.querySelector('#left-button');
 const down_button = document.querySelector('#down-button');
@@ -36,14 +36,16 @@ const vertical_home_button = document.querySelector('#vertical-home-button');
 
 // Write functions to publish commands to motors
 function rotateRight() {
+  // Set topic information to send message to a specific servo
   let topic = new ROSLIB.Topic({
     ros: ros,
     name: '/servo1',
     messageType: 'std_msgs/UInt16'
   });
 
+  // Fill out message information to pivot a specific servo
   let message = new ROSLIB.Message({
-    data: 0
+    data: 0  // Pivot right
   });
   topic.publish(message);
 
@@ -56,14 +58,15 @@ function rotateRight() {
 }
 
 function rotateLeft() {
+  // Set topic information to send message to a specific servo
   let topic = new ROSLIB.Topic({
     ros: ros,
     name: '/servo1',
     messageType: 'std_msgs/UInt16'
   });
-
+  // Fill out message information to pivot a specific servo
   let message = new ROSLIB.Message({
-    data: 1
+    data: 1  // Pivot left
   });
   topic.publish(message);
 
@@ -76,14 +79,16 @@ function rotateLeft() {
 }
 
 function homeHorizontal() {
+  // Set topic information to send message to a specific servo
   let topic = new ROSLIB.Topic({
     ros: ros,
     name: '/servo1',
     messageType: 'std_msgs/UInt16'
   });
 
+  // Fill out message information to pivot a specific servo
   let message = new ROSLIB.Message({
-    data: 2
+    data: 2  // Pivot to horizontal home position
   });
   topic.publish(message);
 
@@ -103,14 +108,16 @@ function homeHorizontal() {
 }
 
 function rotateDown() {
+  // Set topic information to send message to a specific servo
   let topic = new ROSLIB.Topic({
     ros: ros,
     name: '/servo2',
     messageType: 'std_msgs/UInt16'
   });
 
+  // Fill out message information to pivot a specific servo
   let message = new ROSLIB.Message({
-    data: 0
+    data: 0  // Pivot down
   });
   topic.publish(message);
 
@@ -123,14 +130,16 @@ function rotateDown() {
 }
 
 function rotateUp() {
+  // Set topic information to send message to a specific servo
   let topic = new ROSLIB.Topic({
     ros: ros,
     name: '/servo2',
     messageType: 'std_msgs/UInt16'
   });
 
+  // Fill out message information to pivot a specific servo
   let message = new ROSLIB.Message({
-    data: 1
+    data: 1  // Pivot up
   });
   topic.publish(message);
 
@@ -143,14 +152,16 @@ function rotateUp() {
 }
 
 function homeVertical() {
+  // Set topic information to send message to a specific servo
   let topic = new ROSLIB.Topic({
     ros: ros,
     name: '/servo2',
     messageType: 'std_msgs/UInt16'
   });
 
+  // Fill out message information to pivot a specific servo
   let message = new ROSLIB.Message({
-    data: 2
+    data: 2  // Pivot to vertical home position
   });
   topic.publish(message);
 
@@ -177,6 +188,8 @@ let listener = new ROSLIB.Topic({
   messageType: 'std_msgs/UInt16'
 });
 
+// Based on the message received above, disable the appropriate button
+// and inform the user that the maximum limit has been reached
 listener.subscribe(function(message) {
   if(message.data === 0) {
     console.log("Cannot Rotate Servo I, Right Limit Reached");

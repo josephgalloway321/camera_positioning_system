@@ -81,3 +81,7 @@ ___
 - [Codecademy's Full-Stack Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path)
 - [ROS and Arduino with ROSserial | ROS tutorial #10
 ](https://www.youtube.com/watch?v=WLVfZXxpHYI)
+- [Circuit Camera Picture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F31LOj1gYv1L.jpg&tbnid=zgzUR4V3ne4D0M&vet=12ahUKEwjL1Kzi_uOAAxXPPt4AHVM0DuUQMygNegUIARDZAQ..i&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FIntel-Realsense-D435-Webcam-FPS%2Fdp%2FB07BLS5477&docid=VKsRMmMy0qj1AM&w=756&h=756&q=intel%20realsense%20d435i%204k&ved=2ahUKEwjL1Kzi_uOAAxXPPt4AHVM0DuUQMygNegUIARDZAQ)
+- [Circuit Servo Picture](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbackyardbrains.com%2Fexperiments%2Fimg%2Fgripper8.png&tbnid=UEwolziAPu5_tM&vet=12ahUKEwjs5KCC_uOAAxUlOt4AHWKND-wQMygJegQIARBw..i&imgrefurl=https%3A%2F%2Fbackyardbrains.com%2Fexperiments%2Fgripperhand&docid=GAH-3JkChFX6iM&w=388&h=315&q=servo%20fritzing&ved=2ahUKEwjs5KCC_uOAAxUlOt4AHWKND-wQMygJegQIARBw)
+- [Circuit Capacitor Picture](https://www.canstockphoto.com/capacitor-31221695.html)
+- [Circuit Arduino Uno](https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F04%2F75%2F30%2F89%2F360_F_475308954_1eVgr4png76zfUX7Y3TFBjKmAq4a4VCy.jpg&tbnid=2JAw6iz9nK9ZKM&vet=12ahUKEwiGwZCr_-OAAxWKE94AHWjeDZYQMygJegUIARDGAQ..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Darduino%2Buno&docid=KPE9vXlCBqNrrM&w=505&h=360&q=arduino%20uno%204k&ved=2ahUKEwiGwZCr_-OAAxWKE94AHWjeDZYQMygJegUIARDGAQ)

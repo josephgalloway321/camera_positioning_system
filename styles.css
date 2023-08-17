@@ -3,19 +3,15 @@
   padding: 0px;
   /*border: black thin solid;*/
   /*
-  Color Theme (https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51)
-  #264653
-  #2A9D8F
-  #E9C46A
-  #F4A261
-  #E76F51
+  Color Theme (https://palettes.shecodes.io/palettes/1435#palette)
   */
 }
 
 html {
   font-family: sans-serif;
   font-size: 16px;
-  background-color: #264653;
+  background-color: #222831;
+  color: #eeeeee;
 }
 
 /* Style container for video */
@@ -36,10 +32,12 @@ html {
   margin-bottom: 1rem;
 }
 
+/* Status label */
 #status-label {
   margin-left: 0.5rem;
 }
 
+/* Position the connection status word */
 #connection-status {
   margin-left: 1rem;
 }
@@ -56,10 +54,12 @@ html {
   column-gap: 0.5rem;
 }
 
-/* Style each button */
+/* Style each control button */
 .control-button {
-  background-color: #E9C46A;
+  background-color: #0092ca;
+  color: #eeeeee;
   font-size: 1.5rem;
+  border: 0.15rem solid black;
   border-radius: 0.5rem;
   padding: 0.25rem 2rem;
 }
@@ -93,10 +93,4 @@ html {
 #vertical-home-button {
   grid-row: 2 / 3;
   grid-column: 3 / 4;
-}
-
-@media only screen and (max-width: 425px) {
-  #controls-container {
-    width: 100%;
-  }
 }
