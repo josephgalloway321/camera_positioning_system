@@ -32,6 +32,7 @@ The following material was used to complete the project:
 | [Breadboards](https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_4?crid=1RXYCQJNQH6CH&keywords=breadboard&qid=1689642300&sprefix=breadbor%2Caps%2C144&sr=8-4) | $ 10 | 1 |
 | [Right Angle USB-C Adapter](https://www.amazon.com/dp/B0B77CJD7T?psc=1&ref=ppx_yo2ov_dt_b_product_details) | $ 9 | 1 |
 | [Vise Clamps](https://www.amazon.com/dp/B08PYFQ89M?psc=1&ref=ppx_yo2ov_dt_b_product_details) | $ 31 | 1 |
+| [DC Power Supply](https://www.amazon.com/KORAD-KD3005D-Precision-Adjustable-Regulated/dp/B00FPU6G4E/ref=asc_df_B00FPU6G4E/?tag=hyprod-20&linkCode=df0&hvadid=309770211034&hvpos=&hvnetw=g&hvrand=3493489947175252538&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028092&hvtargid=pla-535939866900&psc=1) | $85 | 1 |
 
 *Note: The links provided are only suggestions. They are not the only options for purchasing these specific products. I do not have any affiliation with the companies selling these products. The prices shown now may not be up to date.*
 <br><br>
