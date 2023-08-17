@@ -45,6 +45,7 @@ ___
 ___
 ## Demonstration
 There are ...
+<br>
 *Note:*
 <br><br>
 
