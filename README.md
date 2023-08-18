@@ -1,7 +1,7 @@
 # Camera Positioning System :camera:
 
 ## Overview
-The goal of this project was to create a camera positioning system that was controlled by a web-interface. This setup allowed a user to view live video feed while pivoting camera view to see the system's surroundings. ROS was the framework used to communicate between each component. I developed this system with the goal of using it as a subsystem for my future robots. 
+The goal of this project was to create a camera positioning system that was controlled by a web-interface. This setup allowed a user to view live video feed while pivoting a camera to view its surroundings. ROS Noetic was the framework used to communicate between each part of the system. I developed this project with the goal of using it as a subsystem for my future robots. 
 <br><br>
 The purpose of this repository is to show demonstrations and provide some project details. It is not meant to be a step-by-step instructional on how to recreate the project. I plan on making that at a later time.
 
@@ -14,7 +14,7 @@ ___
 - [Final Thoughts](#final-thoughts)
 - [Acknowledgments](#acknowledgments)
 - [Resources](#resources)
-- [License](#license)
+- [License](./LICENSE)
 
 
 ___
@@ -57,7 +57,7 @@ The following images show the system's circuitry, an overall model of the client
 
 ___
 ## Demonstration
-There are two [videos](./videos/) demonstrating the system. The system demonstration video shows what the hardware looks like during operation, and the webpage demonstration video shows the user's point of view during operation. The following are short gifs from the videos taken:
+There are two demonstration [videos](./videos/). The system demonstration video shows what the hardware looks like during operation, and the webpage demonstration video shows the user's point of view during operation. The following are short gifs from the videos mentioned:
 <p align="center">
   <img src="./gifs/webpage_pivot_left_to_right.gif" width="350" height="250"/>
   <img src="./gifs/webpage_pivot_up_to_down.gif" width="350" height="250"/>
@@ -69,7 +69,7 @@ There are two [videos](./videos/) demonstrating the system. The system demonstra
 
 ___
 ## Final Thoughts
-I learned so much completing this project. I learned a lot about clients and servers, HTML/CSS/JavaScript, ROS tools for web pages, and programming servo motors with Arduino. I intend on using this project in combination with my future robotics projects. 
+I learned so much completing this project. I learned a lot about clients and servers, HTML/CSS/JavaScript, ROS tools for web pages, and programming servo motors with Arduino. I intend on using this project in my future robotics projects. 
 
 Please let me know if this project helped in any way! I'd really appreciate any feedback or how someone improved upon this design. I would also really appreciate credit if this project helped.  
 
