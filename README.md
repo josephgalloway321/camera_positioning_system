@@ -42,10 +42,16 @@ The following material was used to complete the project:
 
 ___
 ## Circuit & Setup
-The following images show the system's circuit and an overall model of the client and servers: 
+The following images show the system's circuitry, an overall model of the client and servers, and a screenshot of the web page: 
 ![Circuit](./images/circuit.png)
 <br><br>
 ![client_server_model](./images/overall_client_server_setup.png)
+<br><br>
+![webpage_screenshot](./images/webpage_screenshot.png)
+<br><br>
+![overall_system](./images/overall_system.jpg)
+<br><br>
+![webpage](./images/webpage.jpg)
 <br><br>
 
 ___
