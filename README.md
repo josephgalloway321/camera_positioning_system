@@ -58,7 +58,14 @@ The following images show the system's circuitry, an overall model of the client
 ___
 ## Demonstration
 There are two [videos](./videos/) demonstrating the system. The system demonstration video shows what the hardware looks like during operation, and the webpage demonstration video shows the user's point of view during operation. The following are short gifs from the videos taken:
-
+<p align="center">
+  <img src="./gifs/webpage_pivot_left_to_right.gif" width="350" height="250"/>
+  <img src="./gifs/webpage_pivot_up_to_down.gif" width="350" height="250"/>
+</p>
+<p align="center">
+  <img src="./gifs/system_pivot_left_to_right.gif" width="300" height="250"/>
+  <img src="./gifs/system_pivot_up_to_down.gif" width="300" height="250"/>
+</p>
 
 ___
 ## Final Thoughts
