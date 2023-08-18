@@ -57,7 +57,7 @@ The following images show the system's circuitry, an overall model of the client
 
 ___
 ## Demonstration
-There are two [videos](./videos/) demonstrating the system. The system demonstration video shows what the hardware looks like during operation, and the webpage demonstration video shows the user's point of view during operation.
+There are two [videos](./videos/) demonstrating the system. The system demonstration video shows what the hardware looks like during operation, and the webpage demonstration video shows the user's point of view during operation. The following are short gifs from the videos taken:
 
 
 ___
