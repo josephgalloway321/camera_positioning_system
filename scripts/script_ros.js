@@ -53,7 +53,7 @@ function rotateRight() {
   if(left_button.disabled === true) {
     left_button.disabled = false;
     left_button.innerHTML = 'Rotate Left';
-    left_button.style.color = 'black';
+    left_button.style.color = 'white';
   }
 }
 
@@ -74,7 +74,7 @@ function rotateLeft() {
   if(right_button.disabled === true) {
     right_button.disabled = false;
     right_button.innerHTML = 'Rotate Right';
-    right_button.style.color = 'black';
+    right_button.style.color = 'white';
   }
 }
 
@@ -96,14 +96,14 @@ function homeHorizontal() {
   if(right_button.disabled === true) {
     right_button.disabled = false;
     right_button.innerHTML = 'Rotate Right';
-    right_button.style.color = 'black';
+    right_button.style.color = 'white';
   }
 
   // Enable disabled rotate left button
   if(left_button.disabled === true) {
     left_button.disabled = false;
     left_button.innerHTML = 'Rotate Left';
-    left_button.style.color = 'black';
+    left_button.style.color = 'white';
   }
 }
 
@@ -125,7 +125,7 @@ function rotateDown() {
   if(up_button.disabled === true) {
     up_button.disabled = false;
     up_button.innerHTML = 'Rotate Up';
-    up_button.style.color = 'black';
+    up_button.style.color = 'white';
   }
 }
 
@@ -147,7 +147,7 @@ function rotateUp() {
   if(down_button.disabled === true) {
     down_button.disabled = false;
     down_button.innerHTML = 'Rotate Down';
-    down_button.style.color = 'black';
+    down_button.style.color = 'white';
   }
 }
 
@@ -169,14 +169,14 @@ function homeVertical() {
   if(up_button.disabled === true) {
     up_button.disabled = false;
     up_button.innerHTML = 'Rotate Up';
-    up_button.style.color = 'black';
+    up_button.style.color = 'white';
   }
 
   // Enable disabled rotate up button
   if(down_button.disabled === true) {
     down_button.disabled = false;
     down_button.innerHTML = 'Rotate Down';
-    down_button.style.color = 'black';
+    down_button.style.color = 'white';
   }
 }
 
