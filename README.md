@@ -57,7 +57,7 @@ The following images show the system's circuitry, an overall model of the client
 
 ___
 ## Demonstration
-There are ...
+There are two [videos](./videos/) demonstrating the system. The 
 <br>
 *Note:*
 <br><br>
