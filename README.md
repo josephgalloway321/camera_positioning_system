@@ -1,7 +1,7 @@
 # Camera Positioning System :camera:
 
 ## Overview
-The goal of this project was to create a camera positioning system that was controlled by a web-interface. This setup allowed a user to view live video feed while pivoting a camera to view its surroundings. ROS Noetic was the framework used to communicate between each part of the system. I developed this project with the goal of using it as a subsystem for my future robots. 
+The goal of this project was to create a camera positioning system that was controlled by a web interface. This setup allowed a user to view live video feed while pivoting a camera to view its surroundings. ROS Noetic was the framework used to communicate between each part of the system. I developed this project with the goal of using it as a subsystem for my future robots. 
 <br><br>
 The purpose of this repository is to show demonstrations and provide some project details. It is not meant to be a step-by-step instructional on how to recreate the project. I plan on making that at a later time.
 <br><br>
